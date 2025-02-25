@@ -5,6 +5,9 @@ https://www.nuget.org/packages/OpenCvSharp4
 
 ====================================================================================================================
 				Latest Stable Version
+
+	USE THIS VERSION FOR ALL OPENCVSHARP PROJECTS!!!!!
+
 				   (4.9.0.20240103)
 https://github.com/shimat/opencvsharp/issues/1688
 ====================================================================================================================
